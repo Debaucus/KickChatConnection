@@ -1,7 +1,7 @@
 # How to use.
 
 - Install NodeJS/NPM
-- Clone this resposity.
+- Clone this repository.
 - `npm install` where the `package.json` file is located.
 - Edit the channel numbers in chatroomList to the ones you wish to follow.
 - `node index.js`
